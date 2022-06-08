@@ -1,0 +1,22 @@
+{
+    "slots": [
+        {
+            "start": "2019-10-24T14:40:00+02:00",
+            "booked": false,
+            "link": "https:\/\/www.znanylekarz.pl\/umow-wizyte\/53166-201910241440"
+        },
+        {
+            "start": "2019-10-24T15:00:00+02:00",
+            "booked": true,
+            "link": "https:\/\/www.znanylekarz.pl\/umow-wizyte\/53166-201910241500"
+        },
+        {
+            "start": "2019-10-24T15:45:00+02:00",
+            "booked": false,
+            "link": "https:\/\/www.znanylekarz.pl\/umow-wizyte\/53166-201910241500"
+        }
+    ],
+    "calendarStatus": "active",
+    "calendarId": 53166,
+    "addressId": 833124
+}

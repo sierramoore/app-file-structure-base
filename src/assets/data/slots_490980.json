@@ -1,0 +1,87 @@
+{
+    "slots": [
+        {
+            "start": "2019-10-25T10:00:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251000"
+        },
+        {
+            "start": "2019-10-25T11:20:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251120"
+        },
+        {
+            "start": "2019-10-25T11:40:00+02:00",
+            "booked": true,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251140"
+        },
+        {
+            "start": "2019-10-25T12:20:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251220"
+        },
+        {
+            "start": "2019-10-25T12:40:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251240"
+        },
+        {
+            "start": "2019-10-25T13:00:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251300"
+        },
+        {
+            "start": "2019-10-25T13:20:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251320"
+        },
+        {
+            "start": "2019-10-25T16:00:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251600"
+        },
+        {
+            "start": "2019-10-25T17:20:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251720"
+        },
+        {
+            "start": "2019-10-25T17:40:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251740"
+        },
+        {
+            "start": "2019-10-25T18:00:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251800"
+        },
+        {
+            "start": "2019-10-25T18:40:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251840"
+        },
+        {
+            "start": "2019-10-25T19:00:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251900"
+        },
+        {
+            "start": "2019-10-25T19:40:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910251940"
+        },
+        {
+            "start": "2019-10-25T20:20:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910252020"
+        },
+        {
+            "start": "2019-10-25T20:40:00+02:00",
+            "booked": false,
+            "link": "https://www.znanylekarz.pl/umow-wizyte/41992-201910252040"
+        }
+    ],
+    "calendarStatus": "active",
+    "calendarId": 41992,
+    "addressId": 490980
+}
